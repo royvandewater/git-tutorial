@@ -1,5 +1,5 @@
 #!/usr/bin/env ruby
 
-if true
+if false
   puts "Hello World"
 end
