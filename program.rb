@@ -2,5 +2,5 @@
 # Used to demonstrate git techniques
 
 if false
-  puts "Hello World"
+  puts "My new text"
 end
